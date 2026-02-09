@@ -1,5 +1,11 @@
-# note-email-extension
-Write a note and email it easily
+# Note to Email
 
-Go to manage extensions and load the extension
-firefox addon will be added soon
+A simple Chrome extension to write notes and email them easily.
+
+## Features
+- Save notes
+- Email notes
+- No backend required
+
+## Install
+See Releases page for instructions.
