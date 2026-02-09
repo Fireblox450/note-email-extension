@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Notes",
+  "description": "Write a note and email it easily.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Note to Email"
+  },
+  "permissions": ["storage"]
+}
